@@ -1,0 +1,9 @@
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\bin\Debug\Connect_4.exe.config
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\bin\Debug\Connect_4.exe
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\bin\Debug\Connect_4.pdb
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\obj\Debug\Connect_4.csprojResolveAssemblyReference.cache
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\obj\Debug\Connect_4.Form1.resources
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\obj\Debug\Connect_4.Properties.Resources.resources
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\obj\Debug\Connect_4.csproj.GenerateResource.Cache
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\obj\Debug\Connect_4.exe
+c:\users\harki\documents\visual studio 2015\Projects\Connect_4\Connect_4\obj\Debug\Connect_4.pdb
